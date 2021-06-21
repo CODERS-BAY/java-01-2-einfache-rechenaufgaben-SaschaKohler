@@ -12,4 +12,4 @@ Die wichtigesten Operatoren:
 * Modulo (Rest bei Division): %
 
 Ein zusätzliches Lernziel ist es, Ausgaben formattiert auszugeben.
-Verwende dazu die `System.out.printf` Methode, du kannst mehr über sie in dem Foliensatz über [Ausgabe](https://docs.google.com/presentation/d/1oBEl8lz2c5ctzL-cNP1XNYr7OGMuzDcI/edit#slide=id.g6cd7ca279a_0_28) lesen.
+Verwende dazu die `System.out.printf` Methode, du kannst mehr über sie in dem [Foliensatz über Ausgabe](https://docs.google.com/presentation/d/1oBEl8lz2c5ctzL-cNP1XNYr7OGMuzDcI/edit#slide=id.g6cd7ca279a_0_28) lesen.
